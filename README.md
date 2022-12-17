@@ -1,31 +1,92 @@
-<h1 align="center">Hi 👋, I'm Kenneth Yaw Obeng</h1>
-<h3 align="center">A pythonista.</h3>
+<div align='center'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaw&label=Profile%20views&color=0e75b6&style=flat" alt="yaw" /> </p>
-
-<p align="left"> <a href="https://twitter.com/obengky" target="blank"><img src="https://img.shields.io/twitter/follow/obengky?logo=twitter&style=for-the-badge" alt="obengky" /></a> </p>
-
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **obengky72@gmial.com**
-
-- ⚡ Fun fact **I love badminton🏸**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/obengky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obengky" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋%20I'm%20Kenneth%20Yaw%20Obeng&width=1000&height=150)](https://github.com/Akshay090/svg-banners)
+</div>
 
 ---
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaw&show_icons=true&locale=en" alt="yaw" /></p>
+<div align="center">
 
----
+![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yawok&theme=dark&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaw&" alt="yaw" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yawok&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
+###
+
+<p align="left">Let's connect via:</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/kenneth-yaw-obeng-3276ba223/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/obengky" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">Operating systems I use</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+</div>
+
+###
+
+<p align="left">Text editors I use</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="52" alt="vim logo"  />
+</div>
+
+###
+
+<p align="left">Languages I know</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="52" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
+</div>
+
+###
+
+<p align="left">Frameworks I'm proficient at</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+</div>
+
+###
+
+<p align="left">Other tools I use</p>
+
+###
+
+<div align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="52" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+</div>
+
+###
+
+<p> <img src="https://komarev.com/ghpvc/?username=yawok&label=Profile%20views&color=0e75b6&style=flat" alt="yaw" /> </p>
+
+###
