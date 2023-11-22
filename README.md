@@ -1,6 +1,6 @@
 <div align='center'>
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋%20I'm%20Kenneth%20Yaw%20Obeng&width=1000&height=150)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20👋%20I'm%20Kenneth%20Obeng&width=1000&height=150)](https://github.com/Akshay090/svg-banners)
 </div>
 
 ---
